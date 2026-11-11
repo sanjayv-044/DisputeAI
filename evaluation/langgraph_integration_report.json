@@ -1,0 +1,34 @@
+{
+    "test_name": "LangGraph Five-Category Integration Test",
+    "total_tests": 5,
+    "passed": 5,
+    "failed": 0,
+    "accuracy_percent": 100.0,
+    "results": [
+        {
+            "expected": "Card-not-present fraud",
+            "actual": "Card-not-present fraud",
+            "passed": true
+        },
+        {
+            "expected": "Skimming",
+            "actual": "Skimming",
+            "passed": true
+        },
+        {
+            "expected": "UPI social engineering",
+            "actual": "UPI social engineering",
+            "passed": true
+        },
+        {
+            "expected": "Merchant dispute",
+            "actual": "Merchant dispute",
+            "passed": true
+        },
+        {
+            "expected": "Duplicate charge",
+            "actual": "Duplicate charge",
+            "passed": true
+        }
+    ]
+}

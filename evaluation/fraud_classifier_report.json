@@ -1,0 +1,151 @@
+{
+    "project": "DisputeAI",
+    "module": "Member 2 - Fraud Classification",
+    "evaluation_date": "2026-11-11T00:06:20.175594",
+    "total_tests": 20,
+    "passed": 20,
+    "failed": 0,
+    "accuracy_percent": 100.0,
+    "results": [
+        {
+            "test_id": 1,
+            "description": "An unknown online card purchase appeared on my statement.",
+            "expected": "Card-not-present fraud",
+            "predicted": "Card-not-present fraud",
+            "passed": true
+        },
+        {
+            "test_id": 2,
+            "description": "My credit card was used online without my permission.",
+            "expected": "Card-not-present fraud",
+            "predicted": "Card-not-present fraud",
+            "passed": true
+        },
+        {
+            "test_id": 3,
+            "description": "Someone made an unauthorised online card transaction.",
+            "expected": "Card-not-present fraud",
+            "predicted": "Card-not-present fraud",
+            "passed": true
+        },
+        {
+            "test_id": 4,
+            "description": "My card details were used without my physical card.",
+            "expected": "Card-not-present fraud",
+            "predicted": "Card-not-present fraud",
+            "passed": true
+        },
+        {
+            "test_id": 5,
+            "description": "Someone used an ATM skimmer to copy my card details.",
+            "expected": "Skimming",
+            "predicted": "Skimming",
+            "passed": true
+        },
+        {
+            "test_id": 6,
+            "description": "My debit card was cloned at an ATM.",
+            "expected": "Skimming",
+            "predicted": "Skimming",
+            "passed": true
+        },
+        {
+            "test_id": 7,
+            "description": "My card data was copied using a skimming device.",
+            "expected": "Skimming",
+            "predicted": "Skimming",
+            "passed": true
+        },
+        {
+            "test_id": 8,
+            "description": "My card was cloned after using a compromised ATM.",
+            "expected": "Skimming",
+            "predicted": "Skimming",
+            "passed": true
+        },
+        {
+            "test_id": 9,
+            "description": "A caller impersonating my bank asked me to share my OTP through UPI.",
+            "expected": "UPI social engineering",
+            "predicted": "UPI social engineering",
+            "passed": true
+        },
+        {
+            "test_id": 10,
+            "description": "I received a fake UPI collect request and lost money.",
+            "expected": "UPI social engineering",
+            "predicted": "UPI social engineering",
+            "passed": true
+        },
+        {
+            "test_id": 11,
+            "description": "A person pretending to be a bank employee tricked me into sharing my OTP.",
+            "expected": "UPI social engineering",
+            "predicted": "UPI social engineering",
+            "passed": true
+        },
+        {
+            "test_id": 12,
+            "description": "I scanned a fraudulent QR code during a UPI transaction.",
+            "expected": "UPI social engineering",
+            "predicted": "UPI social engineering",
+            "passed": true
+        },
+        {
+            "test_id": 13,
+            "description": "I paid for a product but never received my product.",
+            "expected": "Merchant dispute",
+            "predicted": "Merchant dispute",
+            "passed": true
+        },
+        {
+            "test_id": 14,
+            "description": "The merchant charged me but my order was cancelled.",
+            "expected": "Merchant dispute",
+            "predicted": "Merchant dispute",
+            "passed": true
+        },
+        {
+            "test_id": 15,
+            "description": "I received the wrong product and want a refund.",
+            "expected": "Merchant dispute",
+            "predicted": "Merchant dispute",
+            "passed": true
+        },
+        {
+            "test_id": 16,
+            "description": "The service I paid for was not received.",
+            "expected": "Merchant dispute",
+            "predicted": "Merchant dispute",
+            "passed": true
+        },
+        {
+            "test_id": 17,
+            "description": "I was charged twice for the same transaction.",
+            "expected": "Duplicate charge",
+            "predicted": "Duplicate charge",
+            "passed": true
+        },
+        {
+            "test_id": 18,
+            "description": "My bank account was debited twice for one purchase.",
+            "expected": "Duplicate charge",
+            "predicted": "Duplicate charge",
+            "passed": true
+        },
+        {
+            "test_id": 19,
+            "description": "The same transaction appeared twice on my statement.",
+            "expected": "Duplicate charge",
+            "predicted": "Duplicate charge",
+            "passed": true
+        },
+        {
+            "test_id": 20,
+            "description": "There are two charges for one payment.",
+            "expected": "Duplicate charge",
+            "predicted": "Duplicate charge",
+            "passed": true
+        }
+    ]
+}

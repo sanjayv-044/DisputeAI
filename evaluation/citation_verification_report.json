@@ -1,0 +1,21 @@
+{
+    "test_name": "RAG Citation Verification",
+    "status": "PASSED",
+    "verified_citations": [
+        {
+            "source": "RBI_Customer_Protection_2017.pdf",
+            "page": 3,
+            "claim": "Banks must take immediate steps to prevent further unauthorized transactions",
+            "verified_against_original_pdf": true
+        },
+        {
+            "source": "RBI_Customer_Protection_2017.pdf",
+            "page": 6,
+            "claim": "Banks must formulate Board-approved customer protection policies",
+            "verified_against_original_pdf": true
+        }
+    ],
+    "historical_document_warning": true,
+    "current_customer_liability_rules_available": false,
+    "test_date": "2026-11-11T09:41:05.907930"
+}

@@ -1,0 +1,17 @@
+{
+    "test_name": "LangGraph End-to-End Investigation",
+    "status": "PASSED",
+    "agents": [
+        "Fraud Investigation Agent",
+        "Regulatory Compliance Agent",
+        "Investigation Assessment Agent"
+    ],
+    "fraud_category": "UPI social engineering",
+    "expected_category": "UPI social engineering",
+    "classification_passed": true,
+    "evidence_records_retrieved": 5,
+    "historical_warning_present": true,
+    "missing_current_liability_detected": true,
+    "human_review_recommended": true,
+    "test_date": "2026-11-11T09:41:08.392642"
+}

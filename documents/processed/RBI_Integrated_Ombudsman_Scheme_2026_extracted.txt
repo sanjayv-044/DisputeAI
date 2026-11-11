@@ -1,0 +1,830 @@
+
+
+--- PAGE 1 ---
+1 
+ 
+RESERVE BANK – INTEGRATED OMBUDSMAN SCHEME, 2026 
+A Scheme for resolving customer grievances in relation to services provided by 
+entities r egulated by Reserve Bank of India in a n expeditious and cost-effective 
+manner under Section 35A of the Banking Regulation Act, 1949 (10 of 1949), Section 
+45L of the Reserve Bank of India Act, 1934 (2 of 1934) , Section 18 of the Payment 
+and Settlement Systems Act, 2007 (51 of 2007)  and Section 11 of the Credit 
+Information Companies (Regulation) Act, 2005 (30 of 2005).  
+ 
+CHAPTER I 
+PRELIMINARY 
+1. Short Title, Commencement, Extent and Application  
+(1) The Scheme shall be called the Reserve Bank– Integrated Ombudsman Scheme 
+(RB-IOS), 2026. It aims to provide a cost -effective, expeditious, non- adversarial 
+alternate grievance redress mechanism for the resolution of complaints against 
+Regulated Entities covered under the Scheme. 
+(2) It shall come into force with effect from July 1, 2026. 
+(3) The Scheme shall apply to the services provided by the following Regulated  
+Entities: 
+(a) all Commercial Banks, Regional Rural Banks, State Co- operative Banks, 
+Central Co-operative Banks, Scheduled Primary (Urban) Co-operative Banks, 
+and Non-Scheduled Primary (Urban) Co-operative Banks with deposits size of 
+₹50 crore and above as on the date of the audited balance sheet of the 
+previous financial year. 
+(b) all Non -Banking Financial Companies (excluding Housing Finance 
+Companies, Core Investment Company (CIC), Infrastructure Debt Fund-Non-
+Banking Financial Company (IDF -NBFC), Non-Banking Financial Company - 
+Infrastructure Finance Company (NBFC -IFC), Non -Operative Financial 
+Holding Company  (NOFHC), Primary Dealers (PDs), Mortgage Guarantee 
+Companies (MGC)) which  
+(i) are authorised to accept deposits; or
+
+
+--- PAGE 2 ---
+2 
+ 
+(ii) have customer interface, with an assets size of ₹100 crore and 
+above as on the date of the audited balance sheet of the previous 
+financial year. 
+(c) all Non-bank Prepaid Payment Instruments Issuers. 
+(d) Credit Information Companies. 
+ 2. Suspension of the Scheme  
+(1) The Reserve Bank, if it is satisfied that it is expedient so to do, may by order 
+suspend for such period as may be specified in the order, the operation of all or any 
+of the clauses of the Scheme, either generally or in relation to any specified Regulated 
+Entity. 
+(2) The Reserve Bank may, by order, extend from time to time, the period of any 
+suspension ordered as aforesaid by such period, as it may deem fit. 
+3. Definitions  
+(1) In the Scheme, unless the context otherwise requires: 
+(a) “Appellate Authority” means the Executive Director in-Charge of Consumer 
+Education and Protection Department of the Reserve Bank; 
+(b) “Appellate Authority Secretariat” means Consumer Education and 
+Protection Department of the Reserve Bank which is administering the 
+Scheme; 
+(c) “Authorised Representative” means a person, other than an advocate, duly 
+appointed and authorised in writing to represent the C omplainant in the 
+proceedings before the RBI Ombudsman; 
+(d) “Award” means the direction issued under clause 15 of the Scheme by the 
+RBI Ombudsman to the Regulated Entity for specific performance of its 
+obligations within the time limit prescribed; 
+(e) “bank” means a ‘banking company’, a ‘corresponding new bank’, a 
+‘Regional Rural Bank’, ‘State Bank of India’ as defined in the Banking 
+Regulation Act, 1949, a ‘co-operative bank’ as defined in Section 56 (c) of the 
+Banking Regulation Act, 1949  to the extent included under the Scheme but 
+does not include a bank in resolution or winding up or under All-Inclusive 
+Directions;
+
+
+--- PAGE 3 ---
+3 
+ 
+(f) “Complaint” means a representation in writing, alleging a deficiency in 
+service on the part of a Regulated Entity, submitted by its customer or his/her 
+authorised representative, and seeking relief under the provisions of the 
+Scheme;  
+(g) “Credit Information Company” means a company as defined in the 
+Companies Act, 2013 (18 of 2013) and has been granted a certificate of 
+registration under sub-section (2) of section 5 of the Credit Information 
+Companies (Regulation) Act, 2005 (30 of 2005); 
+(h) “Customer” means a person who uses, or is an applicant for, a service 
+provided by a Regulated Entity;  
+(i) “Deficiency in service” means a shortcoming or an inadequacy in any 
+service, which the Regulated Entity is required to provide statutorily or 
+otherwise, which may  or may not  result in financial loss or damage to the 
+customer;   
+(j) “Non-Banking Financial Company” (NBFC) means an NBFC as defined in 
+Section 45-I (f) of the Reserve Bank of India Act, 1934 and registered with the 
+Reserve Bank, to the extent included under the Scheme but does not include, 
+an NBFC in resolution or winding up/liquidation, or under Directions of Reserve 
+Bank of India;  
+(k) “Non- bank Prepaid Payment Instruments Issuer” means a company, as 
+defined in the Companies Act, 2013 (18 of 2013), which has been granted a 
+Certificate of Authorisation by the Reserve Bank of India under Section 7(1) of 
+the Payment and Settlement Systems Act, 2007 (51 of 2007) to operate as a 
+Prepaid Payment Instrument Issuer;  
+(l) “RBI Deputy Ombudsman” means a person appointed by the Reserve Bank 
+as such under Clause 4 of the Scheme; 
+(m) “RBI Ombudsman” means a person appointed by the Reserve Bank as 
+such under Clause 4 of the Scheme; 
+(n) “Regulated Entity” means a bank or a Non-Banking Financial Company, or 
+a Non- bank Prepaid Payment Instruments Issuer or  a Credit Information 
+Company as defined in the Scheme, or any other entity as may be specified by 
+the Reserve Bank from time to time, to the extent not excluded under the 
+Scheme;
+
+
+--- PAGE 4 ---
+4 
+ 
+(o) “Rejected Complaints” means complaints that are closed under the 
+provisions as specified in clause 16 of the Scheme.  
+(p) “Settlement” means an outcome of the processes under clause 14 of the 
+Scheme; 
+(q) “The Reserve Bank” means Reserve Bank of India constituted under 
+Section 3 of the Reserve Bank of India Act, 1934. 
+(2) Words and expressions used and not defined in the Scheme, but defined in the 
+Reserve Bank of India Act, 1934, or in the Banking Regulation Act, 1949, or in the 
+Payment and Settlement Systems Act, 2007 or in the Credit Information Companies 
+(Regulation) Act, 2005 or the Regulations or guidelines or Directions issued by the 
+Reserve Bank in exercise of its powers conferred by the Acts referred to herein above, 
+shall have the meanings respectively assigned to them.   
+*****
+
+
+--- PAGE 5 ---
+5 
+ 
+CHAPTER II 
+OFFICES UNDER THE RESERVE BANK – INTEGRATED OMBUDSMAN 
+SCHEME, 2026 
+4. Appointment and Tenure of RBI Ombudsman and RBI Deputy Ombudsman 
+(1) The Reserve Bank may appoint one or more of its officers as RBI Ombudsman 
+and RBI Deputy Ombudsman, to carry out the functions entrusted to them under the 
+Scheme. 
+(2) The appointment of RBI Ombudsman or the RBI Deputy Ombudsman, as the case 
+may be, shall be made generally for a period of three years at a time. 
+5. Location of the Office of the RBI Ombudsman 
+(1) The Offices of the RBI Ombudsman shall be at such places as may be specified 
+by the Reserve Bank.  
+(2) In order to expedite disposal of the complaints, the RBI Ombudsman may hold 
+sittings at such places  and in such manner  as may be considered necessary and 
+proper in respect of a complaint. 
+6. Centralised Receipt and Processing Centre  
+(1) The Reserve Bank shall establish the Centralised Receipt and Processing Centre 
+at one or more places, as may be decided by it, to receive the complaints filed under 
+the Scheme and process them.     
+(2) The complaints under the Scheme made online shall be registered on the portal 
+(https://cms.rbi.org.in). Complaints received through e-mail1 and physical form , 
+including postal and hand- delivered complaints, shall be addressed and sent to the 
+Centralised Receipt and Processing Centre2 of the Reserve Bank.  
+7. Staffing of the Offices of the RBI Ombudsman and Centralised Receipt and 
+Processing Centre 
+The Reserve Bank shall ensure that the Offices of the RBI Ombudsman and the 
+Centralised Receipt and Processing Centre are adequately staffed and shall bear the 
+cost thereof.  
+***** 
+ 
+1 crpc@rbi.org.in 
+2 Centralised Receipt and Processing Centre, 4th Floor, Reserve Bank of India, Sector - 17, Central 
+Vista, Chandigarh - 160017
+
+
+--- PAGE 6 ---
+6 
+ 
+CHAPTER III 
+POWERS AND FUNCTIONS OF THE RBI OMBUDSMAN/ RBI DEPUTY 
+OMBUDSMAN 
+8. Powers and Functions 
+(1) The RBI Ombudsman/RBI Deputy Ombudsman shall consider the complaints of 
+customers of Regulated Entities relating to deficiency in service.  
+(2) While considering the complaints, the RBI Ombudsman/RBI Deputy Ombudsman 
+shall take into account, the principles of banking law and practice, as also the 
+directions, instructions, guidelines or regulations issued by the Reserve Bank to 
+Regulated Entities from time to time and such other factors as may be relevant. 
+(3) There is no limit on the amount in a dispute that can be brought before the RBI 
+Ombudsman for which the RBI Ombudsman/ RBI Deputy Ombudsman can facilitate 
+a settlement or pass an A ward. However, for any consequential loss suffered by the 
+Complainant, the RBI Ombudsman shall have the power to provide  a compensation 
+up to ₹30 lakh. In addition, the RBI Ombudsman shall also have the power to provide 
+a compensation up to ₹ 3 lakh for the loss of the C omplainant’s time, expenses 
+incurred, harassment/mental anguish suffered, etc., if any, by the Complainant. 
+(4) The RBI Ombudsman shall have the power to examine and close all complaints.  
+(5) The RBI Deputy Ombudsman shall have the power to close those complaints 
+falling under clause 10 of the Scheme and complaints resolved as per the provisions 
+of the clause 14(8)(a) to 14(8)(c) of the Scheme. 
+(6) The RBI Ombudsman shall have the power to make any Regulated Entity, other 
+than the one against whom the complaint has been lodged, a party to the complaint 
+if, in the opinion of the RBI Ombudsman, such Regulated Entity has, by an act , 
+negligence, or omission, failed to comply with any directions, instructions, guidelines, 
+or regulations issued by the Reserve Bank. 
+(7) The Reserve Bank shall , in the public interest, publish a n annual report on the 
+functioning and activities under the Scheme in such manner as it deems fit. 
+*****
+
+
+--- PAGE 7 ---
+7 
+ 
+CHAPTER IV 
+PROCEDURE FOR REDRESSAL OF GRIEVANCE UNDER THE SCHEME 
+9. Grounds of Complaint 
+Any customer aggrieved by an act or omission of a Regulated Entity resulting in 
+deficiency in service may file a complaint under the Scheme personally or through an 
+authorised representative as defined under clause 3(1)(c). 
+10. Grounds for maintainability of a Complaint 
+(1) A complaint under the Scheme shall be maintainable only if the following conditions 
+are satisfied: 
+(a) the complaint is addressed to the RBI Ombudsman directly. However, it 
+does not include a communication in which the Reserve Bank is merely 
+endorsed/marked in copy (whether by e-mail or in physical form); and       
+(b) the complaint is lodged by the Complainant personally or through an 
+authorised representative other than an advocate unless the advocate is the 
+aggrieved person; and  
+(c) the Complainant provides complete information as specified in clause 11 of 
+the Scheme; and  
+(d) the complaint is not abusive or frivolous or vexatious in nature; and  
+(e) the Complainant had first made a complaint in writing or through any other 
+mode t o the Regulated Entity concerned, where proof of having made a 
+complaint can be produced by the Complainant, before making a complaint 
+under the Scheme; and 
+(f) the Complainant has not received any reply within 30 days or within the time 
+specified by the Reserve Bank, National Payments Corporation of India, or 
+under Card Network guidelines, if any, whichever is higher after the Regulated 
+Entity received the complaint; or the Complainant is not satisfied with the reply 
+/ resolution provided by the Regulated Entity; and  
+(g)   the complaint is made to the RBI Ombudsman within 90 days from the date 
+on which the timeline specified in sub- clause (1)(f) expires  or the date of the 
+last communication from the concerned Regulated Entity, whichever is later; 
+and
+
+
+--- PAGE 8 ---
+8 
+ 
+(h) the complaint is not relating to the same grievance, which is already pending 
+before the Office of the RBI Ombudsman, whether or not received from the 
+same Complainant or along with one or more Complainants; or  
+(i) the complaint is not relating to the same grievance, which is already settled 
+or dealt with on merits, by the Office of the RBI Ombudsman, whether or not 
+received from the same Complainant or along with one or more Complainants; 
+and 
+(j) the complaint is not relating to the same grievance, which is already pending 
+before any Court, Tribunal or Arbitrator or any other judicial or quasi -judicial 
+forum, whether or not received from the same Complainant or along with one 
+or more of the Complainants; or 
+(k) the complaint is not relating to the same grievance, which is already settled 
+or dealt with on merits, by any Court, Tribunal or Arbitrator or any other judicial 
+or quasi-judicial forum, whether or not received from the same Complainant or 
+along with one or more of the Complainants; and 
+(l) the complaint to the Regulated Entity was made before the expiry of the 
+period of limitation prescribed under the Limitation Act, 1963, for such claims.  
+Explanation 1: For the purposes of sub- clause (1)(j) and (1)(k), a complaint relating 
+to the same grievance does  not include criminal proceedings pending or decided 
+before a Court or Tribunal or any police investigation initiated in a criminal offence.  
+(2) The complaints involving the following matters are excluded from the purview of 
+the Scheme: 
+(a) matters related to commercial judgment or decision of a Regulated Entity;   
+(b) a dispute between a vendor and a Regulated Entity;  
+(c) grievances against Management or Executives of a Regulated Entity; 
+(d) a grievance arising from an action of a Regulated Entity in compliance with 
+the orders of a judicial/quasi-judicial or statutory or law enforcing authority;  
+(e) a service not within the regulatory purview of the Reserve Bank; 
+(f) a dispute between Regulated Entities;  
+(g) a dispute involving the employee- employer relationship of a Regulated 
+Entity;   
+(h) a grievance for which a remedy has been provided in Section 18 of the 
+Credit Information Companies (Regulation) Act, 2005; and
+
+
+--- PAGE 9 ---
+9 
+ 
+(i) a grievance pertaining to customers of Regulated Entity not included under 
+the Scheme.  
+(3) Complaints not meeting the eligibility conditions as specified under sub-clause (1) 
+and complaints that are mentioned in sub-clause (2), shall be rejected at the outset as 
+non-maintainable without further examination, with appropriate communication to the 
+Complainant. 
+11. Procedure for Filing a Complaint   
+ 
+(1) The complaint may be lodged online through the portal https://cms.rbi.org.in. 
+(2) The complaint  may also be submitted through e- mail3 or physical mode to the 
+Centralised Receipt and Processing Centre 4 as notified by the Reserve Bank. The 
+complaint, if submitted in physical form, shall be duly signed by the Complainant or by 
+the authorised representative. The complaint submitted in electronic or physical mode 
+shall be in such format as specified in Annex.   
+12. Initial Scrutiny, Maintainability and Registration of Complaints   
+(1) Complaints lodged on the portal shall be subject to limited system -based 
+validation, based on the information and responses furnished by the Complainant, 
+solely for the purpose of verifying compliance with basic maintainability requirements 
+under the Scheme.  
+Provided that where, on the basis of such system-based validation, the complaint 
+is found to be not maintainable under clause 10, the same shall be treated as 
+inadmissible for registration as a complaint under the Scheme and shall be 
+rejected at the outset with appropriate communication to the Complainant. 
+(2) The Centralised Receipt and Processing Centre shall verify  the complaints 
+received through e-mail and physical mode and assess their maintainability under the 
+Scheme. Such checks shall be limited to assessing maintainability and shall not 
+amount to examination of the complaint on merits. It shall  
+(a) where the submission does not indicate any deficiency in service and is in the  
+nature of suggestions, queries etc., treat the same as a “not valid complaint” under 
+the Scheme and reject it at the outset with appropriate communication to the 
+Complainant; 
+ 
+3 crpc@rbi.org.in 
+4 Centralised Receipt and Processing Centre, 4th Floor, Reserve Bank of India, Sector - 17, Central 
+Vista, Chandigarh - 160017
+
+
+--- PAGE 10 ---
+10 
+ 
+(b) where the complaint falls under such grounds of non- maintainability in clause 
+10 as may be specified by the Reserve Bank for closure at the Centralised Receipt 
+and Processing Centre, reject the same at the outset with appropriate 
+communication to the Complainant. 
+Provided that  in cases covered under sub- clauses (a) and (b), the 
+submission/complaint shall be inadmissible for registration as a c omplaint 
+under the Scheme. 
+(3) The complaints that are determined to be non-maintainable under clause 10 of the 
+Scheme during processing at the Centralised Receipt and Processing Centre shall be 
+rejected, with appropriate communication to the Complainant i ndicating the grounds 
+for non-maintainability. 
+Provided that only such sub-clauses under clause 10, as may be decided by the 
+Executive Director in-Charge of Consumer Education and Protection Department 
+of the Reserve Bank, shall be rejected by the Centralised Receipt and Processing 
+Centre. 
+(4) Where a complaint is not rejected under sub- clause (1) or sub- clause (2), as the 
+case may be, it shall be registered and assigned to the Office of the RBI Ombudsman 
+for examination and disposal under the Scheme. 
+(5) Registration of a complaint under sub- clause (4) and its assignment to the  Office 
+of the RBI Ombudsman, shall not be construed as a determination of maintainability. 
+Where, upon examination, a complaint is found to be not maintainable under clause 
+10, the Office of the RBI Ombudsman shall reject the complaint in accordance with 
+the provisions of the Scheme, with appropriate communication to the Complainant. 
+13. Power to Call for Information  
+(1)  A copy of the complaint , registered and assigned to the O ffice of the RBI 
+Ombudsman in accordance with clause 12(4) , shall also be forwarded to the 
+Regulated Entity against whom the complaint is filed with a direction to submit its 
+written response within the time as specified in clause 14(2). 
+(2) The Office of the RBI Ombudsman may, for the purpose of carrying out duties 
+under the Scheme, require the Regulated Entity against whom the complaint has been 
+made or any other Regulated Entity which is a party to the dispute to provide any 
+information or furnish certified copies of any document relating to the complaint which 
+are or is alleged to be in its possession.
+
+
+--- PAGE 11 ---
+11 
+ 
+Provided that in the event of failure of a Regulated Entity to comply with the 
+requisition without sufficient cause, it shall be deemed that the Regulated Entity 
+has no information to furnish or no submissions to make. 
+ (3) The Office of the RBI Ombudsman shall maintain confidentiality of the information 
+or the documents coming to its knowledge or possession in the course of discharging 
+its duties and shall not disclose such information or documents to any person except 
+as otherwise required by law , or with the consent of the person furnishing such 
+information or documents. 
+Provided that nothing in this sub- clause shall prevent the Office of the RBI 
+Ombudsman from disclosing information or documents furnished by the parties to 
+the proceedings to each other, to the extent considered necessary to comply with 
+the principles of natural justice and fair play; 
+Provided further that provisions of this sub-clause shall not apply in relation to the 
+disclosure made or information furnished by the Office of the RBI Ombudsman to 
+the Reserve Bank or filing thereof before any Court, Tribunal or Arbitrator or any 
+other judicial or quasi-judicial forum.   
+14. Resolution of Complaints  
+(1) As the intent of the Scheme is to provide a cost-effective and expeditious grievance 
+redress, the proceedings under the Scheme shall be summary in nature and shall not 
+be bound by any rules of evidence. 
+(2) The Regulated Entity shall, on receipt of the com plaint, file its written response to 
+the averments in the complaint enclosing therewith copies of the documents relied 
+upon, within 15 days before the Office of the RBI Ombudsman.     
+Provided that the Office of the RBI Ombudsman may , at the request of the 
+Regulated Entity in writing grant such further time as may be deemed fit to file its 
+written response and documents. 
+(3) In case the Regulated Entity omits or fails to file its written response and 
+documents within the time  as provided in terms of  sub-clause ( 2), the  RBI 
+Ombudsman may proceed ex-parte, based on the documents / material available on 
+record, and issue an Award.  
+(4) The RBI Ombudsman or RBI Deputy Ombudsman, as the case may be,  shall 
+endeavour to facilitate a settlement of a complaint by agreement between the 
+Complainant and the Regulated Entity. In the course of such proceedings, the parties
+
+
+--- PAGE 12 ---
+12 
+ 
+to the complaint shall comply with the advisory issued by the Office of the RBI 
+Ombudsman for submission of relevant doc uments or material within the stipulated 
+time. 
+(5) For the purpose of promoting a settlement of the complaint, the RBI Ombudsman 
+or RBI Deputy Ombudsman , as the case may be,  shall ensure that the written 
+response or supporting documents or material filed by one party, to the extent relevant 
+and pertaining to the complaint, are furnished to other party and follow such procedure 
+and provide additional time as may be considered appropriate.   
+(6) The RBI Ombudsman may, if deemed necessary and based on the circumstances 
+of the complaint, issue an advisory to the Regulated Entity at any stage to take such 
+action as may lead to full or partial resolution and settlement of the complaint, and 
+(a) if the Regulated Entity takes action and complies with the advisory within the 
+stipulated time and the Complainant accepts the same, the complaint shall be 
+closed under Clause 14(8)(b); 
+(b) in the event the Complainant does not respond within the stipulated time or  
+raises any objection that is found to be without merit, the complaint shall be closed 
+under Clause 14(8)(a) or Clause 14(8)(d), respectively.  
+(7) Where the RBI Ombudsman / RBI Deputy Ombudsman is of the opinion that the 
+documents / material furnished and written submissions by both the parties are not 
+conclusive enough to arrive at a settlement, a conciliation meeting of the Complainant 
+with the officials of Regulated Entity may be initiated by the RBI Ombudsman or RBI 
+Deputy Ombudsman, if considered necessary. If such meeting is held and it results in 
+a mutually acceptable settlement of the grievance, the proceedings of the meeting 
+shall be recorded and signed by the parties stating that they are agreeable to the 
+settlement.  
+Provided that such meeting shall be held in the presence of the RBI 
+Ombudsman, and the parties in person or online. 
+(8) Subject to the provisions of Clause 8(5), the complaint shall be closed by the RBI 
+Ombudsman / RBI Deputy Ombudsman when: 
+(a) all aspects of the complaint, have been fully settled by the Regulated Entity 
+upon their intervention; or 
+(b) the Complainant has agreed in writing or otherwise (which may be recorded 
+by the Office of the RBI Ombudsman) that the manner and the extent of 
+resolution of the grievance is satisfactory; or
+
+
+--- PAGE 13 ---
+13 
+ 
+           (c) the Complainant has withdrawn the complaint voluntarily; or  
+(d) the Complainant has objected, in part or full, to the resolution provided, but 
+the RBI Ombudsman is of the opinion that the objections do not have sufficient 
+merit; or 
+(e) the Regulated Entity has addressed certain issues raised in the complaint, 
+and the remaining issues, in the opinion of the RBI Ombudsman, either fall 
+outside the purview of the Scheme, or do not involve any deficiency in service 
+on the part of the Regulated Entity, or do not merit further consideration. 
+15. Award by the RBI Ombudsman  
+(1) Unless the complaint is rejected under clause 16, the RBI Ombudsman shall pass 
+an Award in the event of: 
+(a) non- furnishing of documents/information by the Regulated Entity as 
+enumerated in clause 14(3); or  
+(b) the matter not getting resolved under clause 14(8) based on the documents 
+and material placed before the RBI Ombudsman.  
+Provided that a reasonable o pportunity of being heard (oral or in writing) is 
+given to both the parties before passing an Award.   
+(2) The Award shall contain, inter alia, the direction, if any, to the Regulated Entity for 
+specific performance of its obligations and in addition to or otherwise, the amount, if 
+any, to be paid by the Regulated Entity to the Complainant by way of compensation 
+for any loss suffered by the Complainant as specified in clause 8(3). 
+(3) A copy of the Award shall be sent to the Complainant and the Regulated Entity.  
+(4) The Award passed under sub-clause (1) shall lapse and be of no effect unless the 
+Complainant furnishes a letter of acceptance of the Award in full and final settlement 
+of the claim to the Regulated Entity concerned, within a period of 30 days from the 
+date of receipt of the copy of the Award. 
+Provided that no such acceptance may be furnished by the Complainant if he 
+has filed an appeal under sub-clause (3) of clause 17. 
+(5) The Regulated Entity shall comply with the Award and intimate compliance to the 
+RBI Ombudsman or appeal to the Appellate Authority subject to the provisions of 
+Clause 17, within 30 days from the date of receipt of the letter of acceptance from the 
+Complainant.
+
+
+--- PAGE 14 ---
+14 
+ 
+16. Rejection of a Complaint  
+(1) The RBI Ombudsman or the RBI Deputy Ombudsman may reject a complaint at 
+any stage if it is found that:  
+(a) the complaint is non-maintainable under clause 10; or 
+(b) the complaint is not a valid complaint as it does not indicate any deficiency 
+in service and is in the nature of suggestions, queries etc.; or 
+(c) a case on the same cause of action is filed before any C ourt, Tribunal, 
+Arbitrator, or any other judicial or quasi -judicial forum, while the complaint is 
+being examined under the Scheme. 
+(2) The RBI Ombudsman may reject a complaint at any stage if in his/her opinion: 
+(a) there is no deficiency in service; or 
+(b) the compensation sought for the consequential loss is beyond the power of 
+the RBI Ombudsman to provide the compensation as indicated in clause 8(3); 
+or 
+(c) the complaint is not pursued by the Complainant with reasonable diligence; 
+or   
+(d) the complaint is without sufficient cause; or 
+(e) the complaint requires consideration of elaborate documentary and oral 
+evidence and the proceedings before the RBI Ombudsman are not appropriate 
+for adjudication of such a complaint; or 
+(f) there is no financial loss or damage, or inconvenience caused to the 
+Complainant. 
+17. Appeal before the Appellate Authority  
+(1) There shall not be any right of appeal to a Regulated Entity for an Award issued 
+under clause 15(1)(a).  
+(2)  The Regulated Entity may, aggrieved by an Award under clause 15(1)(b), prefer 
+an appeal before the Appellate Authority within 30 days from the date of receipt of the 
+Complainant’s letter of acceptance of the Award;  
+(a) an appeal may be filed by a Regulated Entity only with the previous sanction 
+of the Executive Director/Official of equal rank. 
+ (b) the Appellate Authority, if he is satisfied that the Regulated Entity had 
+sufficient cause for not making the appeal within the time, may allow a further 
+period not exceeding 30 days.
+
+
+--- PAGE 15 ---
+15 
+ 
+(3) The Complainant may, aggrieved by an Award under clause 15(1), within 30 
+days of the date of receipt of the Award, prefer an appeal before the Appellate 
+Authority. 
+Provided that the Appellate Authority, if he/she is satisfied that the Complainant 
+had sufficient cause for not making the appeal within the time, may allow a further 
+period not exceeding 30 days.  
+(4) The Appellate Authority’s Secretariat shall scrutinise and process the Appeal.     
+(5) The Appellate Authority may , after giving the parties a reasonable opportunity of 
+being heard (oral or in writing): 
+(a) dismiss the appeal; or 
+(b) allow the appeal and set aside the Award of the RBI Ombudsman; or 
+(c) remand the matter to the RBI Ombudsman for fresh disposal in accordance 
+with such directions as the Appellate Authority may consider necessary or 
+proper; or 
+(d) modify the Award and pass such directions as may be necessary to give 
+effect to the Award so modified; or 
+(e) pass any other order as it may deem fit. 
+(6) The order of the Appellate Authority shall have the same effect as the Award 
+passed by RBI Ombudsman under clause 1 5 or the order rejecting the complaint 
+under clause 16, or any other order, as the case may be. 
+18. Regulated Entity to Display Salient Features of the Scheme for Knowledge 
+of the Public 
+(1) The Regulated Entity to which the Scheme is applicable shall facilitate the smooth 
+implementation of the Scheme by ensuring meticulous adherence to the requirements 
+under the Scheme, failing which, the Reserve Bank may take such action as it may 
+deem fit.  
+(2) The Regulated Entity shall appoint a Principal Nodal Officer at their head office 
+who shall be of a rank not less than a General Manager or equivalent and shall be 
+responsible for representing the Regulated Entity and furnishing information on its 
+behalf in respect of complaints filed against the Regulated Entity. The Regulated Entity 
+may appoint such other Nodal Officers to assist the Principal Nodal Officer as it may 
+deem fit for operational efficiency. Any changes in appointment or contact detail s of 
+Principal Nodal Officer shall be reported to Consumer Education and Protection
+
+
+--- PAGE 16 ---
+16 
+ 
+Department, Central Office, Reserve Bank of India prior to or in case of exigency, 
+immediately post any such change. 
+(3) The Regulated Entity shall display prominently for the benefit of their customers at 
+their branches/places where the business is transacted, the name and contact details 
+(Telephone/mobile number and E-mail ID) of the Principal Nodal Officer  and the 
+address of Centralised Receipt and Processing Centre along with  the link to the RBI 
+Ombudsman complaint lodging portal  (https://cms.rbi.org.in) on their website.  
+(4) The Regulated Entity to which the Scheme is applicable shall ensure that the 
+salient features of the Scheme are displayed prominently  in English, Hindi and the 
+regional l anguage in all its offices , branches and places where the business is 
+transacted in such a manner that a person visiting the office or branch has adequate 
+information on the Scheme. 
+(5) The Regulated Entity shall ensure that a copy of the Scheme is available in all its 
+branches to be provided to the customer for reference upon request.  
+(6)  The salient features of the Scheme along with the copy of the Scheme and the 
+contact details of the Principal Nodal Officer shall be displayed  and kept updated on 
+the website of the Regulated Entity.  
+*****
+
+
+--- PAGE 17 ---
+17 
+ 
+CHAPTER V 
+MISCELLANEOUS 
+19.   Removal of Difficulties in the Scheme 
+If any difficulty arises in giving effect to the provisions of the Scheme, the Reserve 
+Bank may make such provisions not inconsistent with the Reserve Bank of India Act, 
+1934, or the Banking Regulation Act, 1949, or the Payment and Settlement Systems 
+Act, 2007, or the Credit Information Companies (Regulation) Act, 2005 or the Scheme, 
+as it may consider necessary or expedient for removing any difficulty. 
+20. Repeal of the Existing Schemes and Application to Pending Proceedings  
+(1) The Reserve Bank – Integrated Ombudsman Scheme, 2021, shall stand repealed 
+as on July 01, 2026. 
+(2)  The adjudication of complaints under the Reserve Bank – Integrated Ombudsman 
+Scheme, 2021, received before July 01 , 2026, appeals arising from decisions made 
+under the said Scheme, and the execution of Awards issued thereunder shall continue 
+to be governed by the provisions of the Reserve Bank –  Integrated Ombudsman 
+Scheme, 2021 and the instructions of the Reserve Bank issued thereunder. 
+*****
+
+
+--- PAGE 18 ---
+18 
+ 
+Annex 
+Complaint Form 
+Form for filing of online and offline complaints with the RBI Ombudsman 
+Part A:  Guidance for filing of a complaint  
+The salient mandatory requirements under the captioned scheme are listed below, 
+which must be followed by the Complainants while filing a complaint with the RBI 
+Ombudsman, and if not followed, may lead to rejection / closure of complaints (the full 
+text of the Scheme, accessible at: https://cms.rbi.org.in may be referred to for details): 
+1. A Complainant must necessarily file his/her complaint FIRST with the Regulated 
+Entity against which he/she has a complaint. If that has not been done and a 
+complaint is filed directly with the RBI Ombudsman, no action will be taken on such 
+complaints. 
+Time limits for filing a complaint 
+2. A complaint can be filed with the RBI Ombudsman if:  
+(i) no reply has been received from the Regulated Entity within the timeline 
+prescribed by RBI/NPCI/Card Network guidelines (where applicable) or 
+within 30 days of receipt of the complaint  by the Regulated Entity , 
+whichever is later ; or the Complainant is not s atisfied with the 
+reply/resolution received from the Regulated Entity; and  
+(ii) the complaint is made to the RBI Ombudsman within 90 days from the 
+date on which the timeline specified in (i) above  expires or the date of 
+the last communication from the concerned Regulated Entity, whichever 
+is later; and; 
+(iii) the complaint to the Regulated Entity was made before the expiry of the 
+period of limitation prescribed under the Limitation Act, 1963, for such 
+claims. 
+Using the services of an advocate for filing of a complaint 
+3. A Complainant can use the help of another person/s to act as his/her authorised 
+representative before the RBI Ombudsman but the person/s should not be an 
+advocate.
+
+
+--- PAGE 19 ---
+19 
+ 
+ 
+Amount of compensation admissible under the Scheme 
+4. (i)   There is no limit on the amount involved in the dispute that can be considered 
+under the Scheme.  
+(ii) The Scheme allows a compensation for consequential loss upto ₹30 lakh  
+(iii) The scheme allows a compensation for harassment/mental anguish suffered 
+by the Complainant upto ₹3 lakh. 
+Documents needed for filing a complaint 
+5. The following documents are normally required for filing a complaint and should be 
+kept ready before filling the complaint form:  
+a) Copy of the complaint filed with the entity 
+b) Copy of the response from the entity (if received) 
+c) Any other document/s relevant to the complaint.  
+Where / how to file a complaint 
+6. A complaint to the RBI Ombudsman can be filed in three ways: (i) through the 
+online CMS portal at https://cms.rbi.org.in  ; (ii) or by emailing to: crpc@rbi.org.in ; 
+or (iii) by sending a filled- in complaint form with supporting documents by 
+post/courier to the following address:  Centralized Receipt and Processing Centre 
+(CRPC), Reserve Bank of India, Central Vista, Sector 17, Chandigarh - 160 017. 
+ 
+Where / how to get further information 
+7. The Contact Center with Interactive Voice Response System (IVRS) with Toll Free 
+#14448 is available 24x7 for Complainants to know about the Scheme and the 
+process of complaint lodging. The facility to connect to Contact Center personnel 
+is available from Monday to Saturday except for National Holidays, between 
+8:00AM to 10:00PM for English, Hindi and ten regional languages.
+
+
+--- PAGE 20 ---
+20 
+ 
+Part B: FORM OF COMPLAINT (TO BE LODGED) WITH THE RBI 
+OMBUDSMAN 
+[Clause 11(2) of the Scheme] 
+(TO BE FILLED UP BY THE COMPLAINANT) 
+All the fields are mandatory except wherever indicated otherwise 
+The RBI Ombudsman  
+Madam/Sir  
+Declaration- I hereby provide my free, specific and informed consent to Reserve Bank 
+of India for the collection, processing, storage, and use of my personal data for the 
+purpose of complaint resolution (Please tick mark) 
+Yes No 
+  
+ 
+(I) Details of the Complainant: 
+1. Complainant Category (Please select only one by placing a tick mark in the box): 
+i. Individual 
+ii. Person with Disabilities 
+iii. Senior Citizen 
+iv. Individual – Business 
+v. Proprietorship 
+vi. Partnership 
+vii. MSME 
+viii. Association 
+ix. Trust 
+x. Limited Company 
+xi. Government Department 
+xii. PSU 
+2. Name of the Complainant ……………………………………………………………. 
+3. Age (years)…………. (not mandatory)   Gender……..………..(not mandatory) 
+4. Mobile No……………………
+
+
+--- PAGE 21 ---
+21 
+ 
+5.  E-mail ID: ……………………….. (if available) 
+6. Full postal address of the Complainant  
+……………………………………………………………………………………………. 
+…………………………………………………………………………………………… ... 
+District………………….. State……………………. Pin Code ……………………… 
+ 
+(II) Details of the complaint: 
+ 
+Complaint 
+against 
+Name of the 
+Regulated 
+Entity (RE) 
+Complaint Number/ 
+acknowledgement 
+number allotted by RE 
+Location of branch 
+(city, town, village, 
+etc.), address, PIN 
+   
+ 
+ 
+a) Do you have an account with the RE mentioned at (II) above?           Yes/No 
+b) If yes, please provide the account number (savings/ Loan/ ATM/ Debit/ Credit 
+Card) in which you have a complaint (you can tick more than one). 
+………………………………………….. 
+c)  Date of making the complaint to the RE  ………………………………………………. 
+(Please enclose a copy of the complaint) 
+d) Transaction date, reference number and details, if available 
+……………………………………………………………….……………………………… 
+e) Whether any reply has been received from the RE? Yes/No  
+          (if yes, please enclose a copy of the reply) 
+f) Please tick the relevant box below (Yes or No):   
+(i) Whether your complaint has already been dealt with or is 
+pending before any court, tribunal, arbitrator, or any other 
+judicial or quasi-judicial forum? (for the same cause of 
+action) 
+Yes No 
+(ii) Whether your complaint is being made through an 
+advocate?  
+Yes No 
+(iii)  If answer to (ii) is yes, then are you the Complainant? Yes No
+
+
+--- PAGE 22 ---
+22 
+ 
+ 
+(iv) 
+Whether your complaint has already been dealt with by the 
+RBI Ombudsman earlier or is under process on the same 
+ground/ cause of action with the RBI Ombudsman? 
+Yes No 
+(v) Is the Complainant a staff of the RE and complaint involves 
+employer-employee relationship? 
+Yes No 
+ Note: If you answered “Yes” to (i), (iv) or (v), or if you answered “Yes” to (ii) and 
+“No” to (iii), your complaint is not maintainable under the Scheme and will not be 
+registered. 
+g) What is the nature of your complaint (please select one – place a tick mark in the 
+box) - (The response to this question is optional for the Complainant) 
+i. ATM/Debit Cards 
+ii. Bank Guarantees/ Letter of Credit and documentary credits  
+iii. Credit Cards  
+iv. Deposit Account (Saving and Current)- including complaints on  
+opening/ operation of accounts  
+v. Internet/Mobile/Electronic Banking 
+vi. Loans and advances (including complaints against recovery  
+Agents/ Direct Sales Agents, harassment, non-observance 
+of Fair Practices Code. Etc.) 
+vii. Notes and Coins 
+viii. Para-Banking products 
+ix. Mis-selling 
+x. Pensions and facilities for Senior Citizens 
+xi. Issue related to KYC updation (including freezing of accounts) 
+xii. Issues related to Premises 
+xiii. Staff behaviour 
+xiv. Remittance and collection of instruments (Cheques/ drafts/  
+bills and other physical modes) 
+xv. Tax related/ Government Business 
+xvi. Facilities for differently abled
+
+
+--- PAGE 23 ---
+23 
+ 
+h) Please give brief Details of the complaint including the particulars of the product 
+(card/loan account/locker, etc.) under dispute: 
+(If space is not sufficient, please enclose a separate sheet.) 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+i) What is the relief sought from the RBI Ombudsman:  
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+………………………………………………………………………………………………… 
+ 
+j) Do you want any compensation to be paid to you by the RE?  Yes / No 
+ If yes, please give details of the compensation: 
+i. For consequential loss suffered, if any: (maximum ₹30 lakh)  
+ii. For time, expenses incurred, harassment & mental anguish, if any (maximum 
+₹3 lakh) 
+List of documents/ proof, if any, in support of your claim at (j) above, including the 
+calculations for compensation sought for the consequential loss. (Please enclose 
+copy/copies) 
+ 
+Declaration 
+I/We, the Complainant/s herein declare that the information furnished above is true 
+and correct. 
+ 
+Yours faithfully 
+(Signature of the Complainant/Authorised Representative)
+
+
+--- PAGE 24 ---
+24 
+ 
+Authorisation 
+If the Complainant wants to authorise a representative on her/his behalf before the 
+RBI Ombudsman, the following declaration should be submitted: 
+ 
+I/We …………….. hereby nominate Shri/Smt………………………………………….as 
+my/our authorised representative to appear and make submission on my/our behalf 
+before the RBI Ombudsman, whose contact details are furnished below: 
+Full Address 
+……………………………………………………………………………………………… 
+……………………………………………………………………………………………… 
+………………………………………………………………………………………………. 
+Pin Code ……………..…………….. 
+Mobile Number. .…………………… 
+E-mail ………………………..……… 
+ 
+ 
+(Signature of the Complainant) 
+Name of the Complainant:  
+Complaint number assigned: 
+(in case the authorisation is submitted at a later stage)

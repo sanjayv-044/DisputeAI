@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "RBI_2017_TABLE_1_P4",
+        "source": "RBI_Customer_Protection_2017.pdf",
+        "page_number": 4,
+        "document_status": "historical",
+        "document_scope": "customer_liability",
+        "chunk_type": "complete_table",
+        "text": "Table 1 Maximum Liability of a Customer under paragraph 7 (ii) Type of Account Maximum liability (₹) • BSBD Accounts 5,000 • All other SB accounts • Pre-paid Payment Instruments and Gift Cards • Current/ Cash Credit/ Overdraft Accounts of MSMEs • Current Accounts/ Cash Credit/ Overdraft Accounts of Individuals with annual average balance (during 365 days preceding the incidence of fraud) / limit up to Rs.25 lakh • Credit cards with limit up to Rs.5 lakh 10,000 • All other Current/ Cash Credit/ Overdraft Accounts • Credit cards with limit above Rs.5 lakh 25,000 Further, if the delay in reporting is beyond seven working days, the customer liability shall be determined as per the bank’s B oard approved policy. Banks shall provide the details of their policy in regard to customers’ liability formulated in pursuance of these directions at the time of opening the accounts. Banks s hall also display their approved policy in public domain for wider dissemination. The existing customers must also be individually informed about the bank’s policy. 8. Overall liability of the customer in third party breaches, as detailed in paragraph 6 (ii) and paragraph 7 (ii) above, where the deficiency lies neither with the bank nor with the customer but lies elsewhere in the system, is summarised in the Table 2: Withdrawn"
+    },
+    {
+        "chunk_id": "RBI_2017_TABLE_2_P5",
+        "source": "RBI_Customer_Protection_2017.pdf",
+        "page_number": 5,
+        "document_status": "historical",
+        "document_scope": "customer_liability",
+        "chunk_type": "complete_table",
+        "text": "Table 2 Summary of Customer’s Liability Time taken to report the fraudulent transaction from the date of receiving the communication Customer’s liability (₹) Within 3 working days Zero liability Within 4 to 7 working days The transaction value or the amount mentioned in Table 1, whichever is lower Beyond 7 working days As per bank’s Board approved policy The number of working days mentioned in Table 2 shall be counted as per the working schedule of the home branch of the customer excluding the date of receiving the communication."
+    }
+]

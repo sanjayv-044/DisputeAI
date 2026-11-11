@@ -1,0 +1,10 @@
+{
+    "test_name": "Gemini RAG Integration",
+    "status": "PASSED",
+    "model": "gemini-3.8-flash",
+    "retrieved_evidence_count": 5,
+    "answer_generated": true,
+    "historical_warning_present": true,
+    "human_review_recommended": true,
+    "test_date": "2026-11-11T09:41:05.639166"
+}

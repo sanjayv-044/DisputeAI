@@ -28,3 +28,18 @@ npm-debug.log*
 .idea/
 .DS_Store
 Thumbs.db
+
+
+# Member 2 - ChromaDB generated database
+documents/chroma_db/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local notebook backups
+*_backup.ipynb
+*_old.ipynb
+
+# Python cache
+.pytest_cache/
+

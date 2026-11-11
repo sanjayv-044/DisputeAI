@@ -1,0 +1,29 @@
+[
+    {
+        "chunk_id": "RBI_2017_TABLE_1_P4_A",
+        "source": "RBI_Customer_Protection_2017.pdf",
+        "page_number": 4,
+        "document_status": "historical",
+        "document_scope": "customer_liability",
+        "chunk_type": "verified_table_section",
+        "text": "\nHistorical RBI Customer Protection Circular, 2017.\nTable 1: Maximum Liability of a Customer under paragraph 7(ii).\n\nMaximum liability ₹5,000:\n- BSBD Accounts.\n\nMaximum liability ₹10,000:\n- All other SB accounts.\n- Pre-paid Payment Instruments and Gift Cards.\n- Current/Cash Credit/Overdraft Accounts of MSMEs.\n- Current Accounts/Cash Credit/Overdraft Accounts of Individuals\n  with annual average balance or limit up to ₹25 lakh.\n- Credit cards with limit up to ₹5 lakh.\n"
+    },
+    {
+        "chunk_id": "RBI_2017_TABLE_1_P4_B",
+        "source": "RBI_Customer_Protection_2017.pdf",
+        "page_number": 4,
+        "document_status": "historical",
+        "document_scope": "customer_liability",
+        "chunk_type": "verified_table_section",
+        "text": "\nHistorical RBI Customer Protection Circular, 2017.\nTable 1: Maximum Liability of a Customer under paragraph 7(ii).\n\nMaximum liability ₹25,000:\n- All other Current/Cash Credit/Overdraft Accounts.\n- Credit cards with limit above ₹5 lakh.\n"
+    },
+    {
+        "chunk_id": "RBI_2017_TABLE_2_P5",
+        "source": "RBI_Customer_Protection_2017.pdf",
+        "page_number": 5,
+        "document_status": "historical",
+        "document_scope": "customer_liability",
+        "chunk_type": "complete_table",
+        "text": "Table 2 Summary of Customer’s Liability Time taken to report the fraudulent transaction from the date of receiving the communication Customer’s liability (₹) Within 3 working days Zero liability Within 4 to 7 working days The transaction value or the amount mentioned in Table 1, whichever is lower Beyond 7 working days As per bank’s Board approved policy The number of working days mentioned in Table 2 shall be counted as per the working schedule of the home branch of the customer excluding the date of receiving the communication."
+    }
+]
