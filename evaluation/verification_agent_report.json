@@ -1,0 +1,210 @@
+{
+    "project": "DisputeAI",
+    "module": "Verification Agent",
+    "total_scenarios": 20,
+    "passed": 20,
+    "failed": 0,
+    "accuracy_percentage": 100.0,
+    "results": [
+        {
+            "id": 1,
+            "name": "Valid historical evidence",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 2,
+            "name": "No regulatory evidence",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 3,
+            "name": "Empty evidence text",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 4,
+            "name": "Unknown document source",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 5,
+            "name": "Invalid page reference",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 6,
+            "name": "Historical transaction-liability evidence",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 7,
+            "name": "Ombudsman evidence only",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 8,
+            "name": "Multiple historical documents",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 9,
+            "name": "Unclassified regulatory evidence",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 10,
+            "name": "Customer-reported factual claim",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 11,
+            "name": "Unsupported zero-liability claim",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 12,
+            "name": "Mixed factual and legal claims",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 13,
+            "name": "Missing investigation claims",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 14,
+            "name": "Missing fraud category",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 15,
+            "name": "Uncertain fraud category",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 16,
+            "name": "Missing fraud reasoning",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 17,
+            "name": "Grievance evidence cannot establish liability",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 18,
+            "name": "Withdrawn document falsely labelled current",
+            "status": "PASS",
+            "known_limitation": true,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 19,
+            "name": "Unsupported claim triggers escalation",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        },
+        {
+            "id": 20,
+            "name": "Insufficient evidence triggers manual investigation",
+            "status": "PASS",
+            "known_limitation": false,
+            "errors": [],
+            "verification_status": "ESCALATED",
+            "liability_status": "INSUFFICIENT_VERIFIED_EVIDENCE",
+            "human_escalation": true
+        }
+    ]
+}
