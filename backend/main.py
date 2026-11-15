@@ -509,3 +509,19 @@ def get_dispute(
             status_code=500,
             detail="Unable to retrieve dispute"
         )
+# =====================================================
+# PROMETHEUS MONITORING ENDPOINT
+# =====================================================
+
+from prometheus_client import generate_latest, CONTENT_TYPE_LATEST
+from src.monitoring import get_metrics
+
+@app.get("/metrics", include_in_schema=False)
+def metrics():
+    metrics_data, content_type = get_metrics()
+    from fastapi.responses import Response
+    return Response(
+        content=metrics_data,
+        media_type=content_type
+    )
+

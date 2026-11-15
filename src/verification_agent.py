@@ -1,3 +1,4 @@
+﻿from src.monitoring import monitor_verification
 
 import json
 import os
@@ -1131,6 +1132,7 @@ verification_graph = workflow.compile()
 # 13. RUN VERIFICATION AGENT
 # ============================================================
 
+@monitor_verification
 def run_verification(investigation_result: dict):
 
     result = verification_graph.invoke(
@@ -1149,3 +1151,5 @@ def run_verification(investigation_result: dict):
     )
 
     return result
+
+
