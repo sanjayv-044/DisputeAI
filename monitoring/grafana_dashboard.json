@@ -1,0 +1,103 @@
+{
+  "annotations": {
+    "list": []
+  },
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 0,
+  "id": 1,
+  "links": [],
+  "liveNow": false,
+  "panels": [
+    {
+      "collapsed": false,
+      "gridPos": { "h": 8, "w": 6, "x": 0, "y": 0 },
+      "id": 1,
+      "title": "Active API Requests",
+      "type": "stat",
+      "targets": [
+        {
+          "expr": "disputeai_active_requests",
+          "refId": "A"
+        }
+      ]
+    },
+    {
+      "collapsed": false,
+      "gridPos": { "h": 8, "w": 6, "x": 6, "y": 0 },
+      "id": 2,
+      "title": "Total Verification Requests",
+      "type": "stat",
+      "targets": [
+        {
+          "expr": "sum(disputeai_verification_requests_total)",
+          "refId": "A"
+        }
+      ]
+    },
+    {
+      "collapsed": false,
+      "gridPos": { "h": 8, "w": 6, "x": 12, "y": 0 },
+      "id": 3,
+      "title": "Human Escalations Total",
+      "type": "stat",
+      "targets": [
+        {
+          "expr": "disputeai_human_escalations_total",
+          "refId": "A"
+        }
+      ]
+    },
+    {
+      "collapsed": false,
+      "gridPos": { "h": 8, "w": 6, "x": 18, "y": 0 },
+      "id": 4,
+      "title": "Average Verification Duration",
+      "type": "stat",
+      "targets": [
+        {
+          "expr": "rate(disputeai_verification_duration_seconds_sum[1m]) / rate(disputeai_verification_duration_seconds_count[1m])",
+          "refId": "A"
+        }
+      ]
+    },
+    {
+      "collapsed": false,
+      "gridPos": { "h": 9, "w": 12, "x": 0, "y": 8 },
+      "id": 5,
+      "title": "API Request Rate (req/sec)",
+      "type": "timeseries",
+      "targets": [
+        {
+          "expr": "rate(disputeai_verification_requests_total[1m])",
+          "refId": "A"
+        }
+      ]
+    },
+    {
+      "collapsed": false,
+      "gridPos": { "h": 9, "w": 12, "x": 12, "y": 8 },
+      "id": 6,
+      "title": "Verification Latency Distribution (seconds)",
+      "type": "timeseries",
+      "targets": [
+        {
+          "expr": "disputeai_verification_duration_seconds_sum / disputeai_verification_duration_seconds_count",
+          "refId": "A"
+        }
+      ]
+    }
+  ],
+  "refresh": "5s",
+  "schemaVersion": 38,
+  "style": "dark",
+  "tags": ["disputeai", "banking", "triage"],
+  "time": {
+    "from": "now-15m",
+    "to": "now"
+  },
+  "timepicker": {},
+  "timezone": "",
+  "title": "DisputeAI Performance & Fraud Investigation Telemetry",
+  "version": 1
+}

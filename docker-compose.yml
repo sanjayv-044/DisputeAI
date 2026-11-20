@@ -1,16 +1,20 @@
 services:
-
   backend:
     build:
-      context: ./backend
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: backend/Dockerfile
     container_name: disputeai-backend
     ports:
       - "8000:8000"
     environment:
-      DATABASE_URL: sqlite:////app/data/disputes.db
+      - DATABASE_URL=sqlite:////app/data/disputes.db
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=disputeai-production-banking-secret-key-2026-secure
     volumes:
       - ./backend/data:/app/data
+      - ./backend/uploads:/app/backend/uploads
+    depends_on:
+      - redis
     restart: unless-stopped
 
   frontend:
@@ -22,4 +26,38 @@ services:
       - "5173:5173"
     depends_on:
       - backend
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    container_name: disputeai-redis
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: disputeai-prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: disputeai-grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - ./monitoring/grafana_datasources.yml:/etc/grafana/provisioning/datasources/datasources.yml
+      - ./monitoring/grafana_dashboards.yml:/etc/grafana/provisioning/dashboards/dashboards.yml
+      - ./monitoring/grafana_dashboard.json:/etc/grafana/provisioning/dashboards/grafana_dashboard.json
+    depends_on:
+      - prometheus
     restart: unless-stopped
